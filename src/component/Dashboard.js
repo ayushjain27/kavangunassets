@@ -15,6 +15,13 @@ import {
   Phone,
 } from "lucide-react";
 import ImageUrl from "./image.png";
+import Image1 from "./product-box--1--2024-25-10-02-46-34-removebg-preview.png";
+import Image2 from "./MEME_PACK_PNG-2025-27-06-01-13-41-removebg-preview.png";
+import Image3 from "./MUSICPACKPNG-2025-27-06-01-16-34-removebg-preview.png";
+import Image4 from "./6-9-meme-pack-kav.png";
+import Image5 from "./2.png";
+import Image6 from "./1.png";
+import Image7 from "./3.png";
 
 const KavangunAssetsPage = () => {
   const [email, setEmail] = useState("");
@@ -25,7 +32,7 @@ const KavangunAssetsPage = () => {
       title: "500+ PREMIUM SOUND EFFECTS",
       originalPrice: "₹ 499.00",
       salePrice: "₹ 99.00",
-      image: "https://kavangunassets.com/cdn/shop/files/boxes.png",
+      image: Image1,
       link: "https://spf.bio/SbIfQ",
       badge: "Sale",
     },
@@ -34,7 +41,7 @@ const KavangunAssetsPage = () => {
       title: "Premium Meme Pack 1000+",
       originalPrice: "₹ 499.00",
       salePrice: "₹ 99.00",
-      image: "https://kavangunassets.com/cdn/shop/files/boxes.png",
+      image: Image2,
       link: "https://superprofile.bio/vp/premium-meme-pack-1000-",
       badge: "Sale",
     },
@@ -43,7 +50,7 @@ const KavangunAssetsPage = () => {
       title: "Premium Music Pack 2000+",
       originalPrice: "₹ 499.00",
       salePrice: "₹ 99.00",
-      image: "https://kavangunassets.com/cdn/shop/files/boxes.png",
+      image: Image3,
       link: "https://superprofile.bio/vp/premium-music-pack-2000-",
       badge: "Sale",
     },
@@ -64,7 +71,7 @@ const KavangunAssetsPage = () => {
       title: "69 Best Memes Pack - Used by Top Indian Creators!",
       originalPrice: "₹ 199.00",
       salePrice: "₹ 0.00",
-      image: "https://kavangunassets.com/cdn/shop/files/6-9-meme-pack-kav.png",
+      image: Image4,
       link: "https://drive.google.com/file/d/1G7V3US_k_S_gdMKvlGRaTg8UQC3GqJDv/view?usp=sharing",
       badge: "Free",
       downloads: "15K+ downloads",
@@ -74,7 +81,7 @@ const KavangunAssetsPage = () => {
       title: "Free Music Pack",
       originalPrice: "₹ 199.00",
       salePrice: "₹ 0.00",
-      image: "https://kavangunassets.com/cdn/shop/files/2.png",
+      image: Image5,
       link: "https://drive.google.com/file/d/10nQNC_vWcB3T340OybJBCNvmxYfwR4JV/view?usp=sharing",
       badge: "Free",
       downloads: "8.5K+ downloads",
@@ -84,7 +91,7 @@ const KavangunAssetsPage = () => {
       title: "Free Slide Presets",
       originalPrice: "₹ 199.00",
       salePrice: "₹ 0.00",
-      image: "https://kavangunassets.com/cdn/shop/files/1.png",
+      image: Image6,
       link: "https://drive.google.com/file/d/1zVcRsTH17U6A-bBEGX6BxTtr4rh0qE4L/view?usp=sharing",
       badge: "Free",
       downloads: "12K+ downloads",
@@ -94,7 +101,7 @@ const KavangunAssetsPage = () => {
       title: "Free Mail Template",
       originalPrice: "₹ 199.00",
       salePrice: "₹ 0.00",
-      image: "https://kavangunassets.com/cdn/shop/files/3.png",
+      image: Image7,
       link: "https://drive.google.com/file/d/1F5CKaIcqDx34z-v46xIDQUEfZHPb-ivk/view?usp=sharing",
       badge: "Free",
       downloads: "3.2K+ downloads",
