@@ -1,18 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import {
-  Search,
-  User,
   ShoppingCart,
-  Star,
   Download,
-  Music,
-  Image,
   Mail,
-  Presentation,
-  ArrowRight,
   Instagram,
   Youtube,
-  Phone,
 } from "lucide-react";
 import ImageUrl from "./image.png";
 import Image1 from "./product-box--1--2024-25-10-02-46-34-removebg-preview.png";
@@ -24,8 +16,6 @@ import Image6 from "./1.png";
 import Image7 from "./3.png";
 
 const KavangunAssetsPage = () => {
-  const [email, setEmail] = useState("");
-
   const premiumAssets = [
     {
       id: 1,
